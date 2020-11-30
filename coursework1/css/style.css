@@ -1,0 +1,84 @@
+img {
+  max-width: 10%;
+  border-radius: 10px;
+  padding:3px;
+  <!-- width of image was set to 10% so it would be small enough to fit in the box and sit nicely next to the text-->
+}
+section, footer, header{
+  padding:10px;
+  margin: 5px;
+  background-color:black;
+  border-radius: 15px;
+}
+h1 {
+  font-size: 0.9cm;
+  margin:7px;
+  text-align:center;
+  font-family: arial
+}
+h2 {
+  text-decoration: underline;
+  font-size: 0.7cm;
+}
+p {
+  text-align:center;
+  font-size:0.6cm;
+}
+
+nav{
+  background-color: crimson;
+  display: flex;
+  justify-content: center;
+  border-radius: 15px;
+  font-size: 0.55cm;
+}
+nav a{
+  padding: 6px;
+  margin: 3px;
+  text-decoration: none;
+  text-align: center;
+  color:black;
+  cursor: pointer;
+  padding: 14px 12px;
+}
+
+body {
+  font-family: sans-serif;
+  color:crimson;
+  background-color: #383838;
+}
+h3 {
+  color: crimson;
+  padding:2px;
+  text-decoration: underline;
+}
+aside {
+  border: 7px solid;
+  margin:auto;
+  width:300px;
+  text-align:center;
+  <!-- used to create a border around audio and position it in the centre of box -->
+}
+span{
+  font-weight: bold;
+}
+.a {
+  display:flex;
+  <!-- this was used to make the text sit next to the cast images -->
+}
+.b {
+  text-align: center;
+}
+.title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  height: 300px;
+}
+.border {
+  border-radius: 15px;
+  border-style: solid;
+  margin:5px;
+  border-width: 10px;
+}
