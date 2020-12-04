@@ -89,7 +89,6 @@ span{
 }
 .cast{
   float: left;
-  clear:both;
   /* this was used to make the text sit next to the images in the sections with the cast class*/
 }
 
