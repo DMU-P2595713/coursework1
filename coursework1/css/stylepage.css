@@ -28,6 +28,7 @@ h2 {
   /* underlines and centers text in <h2> element and changes font size to 0.7cm */
 }
 p {
+  margin: 3px;
   text-align:center;
   font-size:0.6cm;
   display: block;
