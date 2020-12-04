@@ -71,6 +71,7 @@ a {
   /*makes font surrounded in <a> crimson and removes text decoration*/
 }
 aside {
+  padding: 5px;
   margin: 7px;
   text-align:center;
   /* centers text of those in aside function and space between other*/
