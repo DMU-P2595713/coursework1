@@ -5,34 +5,34 @@
   margin-right: auto;
   width:100%;
   border-radius: 10px
-  /* centers element with title class */
+  /* centers element with title class to make it appear nicer*/
 }
 section, footer{
   padding:10px;
   margin: 5px;
   background-color:black;
   border-radius: 15px;
-  /* changes <section> and <footer> elements background colours to black and creates border around them */
+  /* changes <section> and <footer> elements background colours to black as the colour fits with the film and it also creates border around them to contain the text better */
 }
 h1 {
   font-size: 0.9cm;
   margin:5px;
   text-align:center;
   font-family: arial
-  /* centers text in <h1> element and changes font to arial and 0.9cm */
+  /* centers text in <h1> element and changes font to arial and 0.9cm as these make the site look more appealing */
 }
 h2 {
   text-decoration: underline;
   font-size: 0.7cm;
   text-align: center;
-  /* underlines and centers text in <h2> element and changes font size to 0.7cm */
+  /* underlines and centers text in <h2> element and changes font size to 0.7cm to make design better */
 }
 p {
   margin: 3px;
   text-align:center;
   font-size:0.5cm;
   display: block;
-  /* centers text in <p> element and changes font size to 0.6cm */
+  /* centers text in <p> element and changes font size to 0.6cm to make design better*/
 }
 
 nav{
@@ -41,7 +41,7 @@ nav{
   justify-content: center;
   border-radius: 15px;
   font-size: 0.55cm;
-  /* changes font size to 0.55cm within nav element and centers text within border created */
+  /* changes font size to 0.55cm within nav element and centers text to make the design better, a border is also created to contain the text */
 }
 nav a{
   margin: 3px;
@@ -50,36 +50,36 @@ nav a{
   color:black;
   cursor: pointer;
   padding: 14px 12px;
-  /* centers and colours text black in <a> within the <nav> element and when users mouse hovers over them it creates a pointer */
+  /* centers and colours text black in <a> within the <nav> element and when users mouse hovers over them it creates a pointer to make design more appealing to user */
 }
 
 body {
   font-family: sans-serif;
   color:crimson;
   background-color: #383838;
-  /* makes background colour grey and changes font to sans serif and crimson */
+  /* makes background colour grey and changes font to sans serif and crimson to make design more appealing */
 }
 h3 {
   color: crimson;
   padding:2px;
   text-decoration: underline;
   margin:0
-  /* makes font in <h3> crimson and underlines */
+  /* makes font in <h3> crimson and underlines text to make it appear more appealing */
 }
 a {
   text-decoration: none;
   color: crimson;
-  /*makes font surrounded in <a> crimson and removes text decoration*/
+  /*makes font surrounded in <a> crimson and removes text decoration so that the colour could be changed and so that it wouldn't be underlined */
 }
 aside {
   padding: 5px;
   margin: 7px;
   text-align:center;
-  /* centers text of those in aside function and space between other*/
+  /* centers text of those in aside function and space between other to make design appealing */
 }
 span{
   font-weight: bold;
-  /* makes text with surrounded by <span> bold */
+  /* makes text with surrounded by <span> bold to make them apper more important */
 }
 .size {
   max-width: 20%;
@@ -87,12 +87,12 @@ span{
   padding:3px;
   float: left;
   clear: both;
-  /* used to change size of image and create border around image and text */
+  /* used to change size of image and create border around image and text to make design appealing */
 }
 .cast{
   float: left;
   display: block;
-  /* this was used to make the text sit next to the images in the sections with the cast class*/
+  /* this was used to make the text sit next to the images in the sections with the cast class so that it would look better with the deisgn */
 }
 
 .border {
@@ -100,5 +100,5 @@ span{
   border-style: solid;
   margin:10px;
   border-width: 8px;
-  /* this creates a rounded solid border around certain things with the border class */
+  /* this creates a rounded solid border around certain things with the border class to make the deisgn more engaging */
 }
